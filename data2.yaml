@@ -7,7 +7,7 @@ names:
   5: SURPRISE
   6: CONTEMPT
   7: DISGUST
-nc: 2
+nc: 8
 path: /kaggle/working/temp_data
 train: images/training
 val: images/validation
