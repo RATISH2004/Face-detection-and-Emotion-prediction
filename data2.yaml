@@ -1,0 +1,13 @@
+names:
+  0: SAD
+  1: NEUTRAL
+  2: JOY
+  3: FEAR
+  4: ANGRY
+  5: SURPRISE
+  6: CONTEMPT
+  7: DISGUST
+nc: 80
+path: /kaggle/working/temp_data
+train: images/training
+val: images/validation
